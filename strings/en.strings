@@ -1,0 +1,7 @@
+"create" = "Create";
+"invalid_qrcode" = "QR Code format error";
+"success" = "Two-factor authentication has been created successfully, fill above code in the page to confirm.";
+"remove" = "Remove";
+"confirm_title" = "Confirm Remove";
+"confirm" = "Confirm";
+"cancel" = "Cancel";

@@ -1,0 +1,7 @@
+"create" = "添加";
+"invalid_qrcode" = "二维码格式错误";
+"success" = "两步认证已经添加，请在页面上输入上面的代码完成认证。";
+"remove" = "移除";
+"confirm_title" = "确定移除";
+"confirm" = "确定";
+"cancel" = "取消";
